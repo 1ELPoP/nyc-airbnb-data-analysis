@@ -26,7 +26,7 @@ An end-to-end data analysis project exploring the New York City Airbnb market to
 ## Project Files & Presentation
 - **Python Notebook / Script:** Data cleaning, outlier handling, and feature engineering pipeline.
 - **Power BI Dashboard (`.pbix`):** Interactive visual report.
-- **Presentation (PDF):** [New-York-City-Airbnb-Market-Analysis.pdf](https://github.com/user-attachments/files/35327928/New-York-City-Airbnb-Market-Analysis.pdf)
+- **Presentation (PDF):** [New York City Airbnb Market Analysis](./New-York-City-Airbnb-Market-Analysis.pdf)
 
 ## Contributors
 - Omar Ahmed Abdulrahim
